@@ -4,7 +4,7 @@ require 'connectdb.php';
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Grand Royal Residence 2</title>
+	<title>PT. Sinar Emas Jaya Banua</title>
 	<meta charset="utf-8">
 	<meta name="author" content="pixelhint.com">
 	<meta name="description" content="La casa free real state fully responsive html5/css3 home page website template"/>
@@ -43,7 +43,7 @@ require 'connectdb.php';
 
 		<section class="caption">
 			<h2 class="caption">Find Your Dream Home</h2>
-			<h3 class="properties">In Grand Royal Residence 2 - Indramayu</h3>
+			<h3 class="properties">In Sinar Emas Jaya Banua</h3>
 		</section>
 	</section><!--  end hero section  -->
 
@@ -77,14 +77,14 @@ require 'connectdb.php';
 						Kantor pemasaran :
 					</p>
 					<p>
-						Komp.Ruko Grand Royal Residence 1 No. 10
-						Jl. Raya Pasar Baru (depan Kantor Polres)
+						Banjarmasin
+						Kalimantan Selatan
 					</p>
 				
 		</div>
 
 		<div class="copyrights wrapper">
-			Copyright © 2015 Kelompok 4. All Rights Reserved.
+			Copyright © 2020 All Rights Reserved.
 		</div>
 	</footer><!--  end footer  -->
 	
